@@ -1,0 +1,8 @@
+{
+  "index": "Welcome!",
+    "--": {
+    "type": "separator",
+    "title": "A Separator"
+  },
+  "api-specs": "API reference"
+}
